@@ -5,6 +5,16 @@
 *  Atualmente estou estudando no projeto DevMentors
 *  Colaborei para um jogo de >1000 players
 
+  ---------------------------------------
+
+###  About me
+
+*  Currently competing in the TBR (Brazil Robotics Tournament) and OBR (Brazilian Robotics Olympiad)
+*  Currently learning Lua and PHP
+*  Studying software development at the DevMentors project
+*  Contributed to a game with 1,000+ players
+
+
 <!--
 **LucasFrancoBatista/LucasFrancoBatista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
