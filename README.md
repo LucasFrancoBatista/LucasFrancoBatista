@@ -1,4 +1,8 @@
-## Hi there 👋
+###  Sobre mim
+
+*  Atualmente estou participando dos torneios **TBR (Torneio Brasil de Robótica)** e **OBR (Olimpíada Brasileira de Robótica)**
+*  Estou aprendendo **Lua** e **PHP**
+*  Atualmente estou estudando no projeto DevMentors
 
 <!--
 **LucasFrancoBatista/LucasFrancoBatista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
