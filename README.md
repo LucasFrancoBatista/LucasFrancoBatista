@@ -5,6 +5,11 @@
 *  Atualmente estou estudando no projeto DevMentors
 *  Colaborei para um jogo de >1000 players
 
+Nome: Lucas Franco Batista
+Idade: 14
+Localização: Brasil
+Foco: Desenvolvimento de jogos
+
   ---------------------------------------
 
 ###  About me
@@ -14,6 +19,10 @@
 *  Studying software development at the DevMentors project
 *  Contributed to a game with 1,000+ players
 
+Name: Lucas Franco Batista
+Age: 14
+Location: Brazil
+Focus: Game Development
 
 <!--
 **LucasFrancoBatista/LucasFrancoBatista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
