@@ -17,7 +17,7 @@
 *  Currently competing in the TBR (Brazil Robotics Tournament) and OBR (Brazilian Robotics Olympiad)
 *  Currently learning Lua and PHP
 *  Studying software development at the DevMentors project
-*  Contributed to a game with 1,0000+ players
+*  Contributed to a game with 10,000+ players
 
 *  Name: Lucas Franco Batista
 *  Age: 14
